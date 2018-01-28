@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Midas van Oene",
+      "authorEmail": "midas.van.oene@gmail.com",
+      "authorUrl": "https://midasvo.nl"
+    }
+  }
+}
